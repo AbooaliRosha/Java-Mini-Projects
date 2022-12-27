@@ -4,7 +4,7 @@ Description: Finding all the possible neanderthal numbers of a given string usin
 import java.util.Scanner;
 import java.io.FileReader;
 import java.io.IOException;
-class Main
+class Neanderthal_Numbers
 {
 	public static void main(String[] args) throws IOException
 	{
