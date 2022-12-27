@@ -1,8 +1,5 @@
 /*
-*Date:April 21,2020
-*Name:Rosha Abooali
-*Teacher:Ms.A
-*Description:Ask the user for a number then calulate the factorial.
+Description:Ask the user for a number then calulate the factorial.
 */
 import java.util.Scanner;
 public class Factorial{
