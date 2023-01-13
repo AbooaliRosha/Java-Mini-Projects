@@ -1,11 +1,4 @@
-/*
-Rosha A 
-Mr.Greco
-ICS4U1-07 (period 3)
-March 17th, 2021
 
-Tic-Tac-Toe game
-*/
 import java.util.Scanner;
 public class Main 
 {
