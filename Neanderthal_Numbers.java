@@ -1,5 +1,12 @@
 /*
 Description: Finding all the possible neanderthal numbers of a given string using recursion
+Sample test case (find in data.txt):
+ookookook
+oogamookoogumook
+oogoogumookookmookmookookookmookook
+mookookookugoogumoogummookmookugmookookmookmook
+mookmookoogamoogumookookugoogugoogammookmookookookoogoogumugugookmookoogugug
+ookugugugugoogookookugugugugmookmookugugugugugookookmookmookmookmookoogmookmookoogaooga
 */
 import java.util.Scanner;
 import java.io.FileReader;
